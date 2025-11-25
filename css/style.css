@@ -135,7 +135,12 @@ img {
     }
 
     /* ヘッダー */
-    .main-nav {
+    .page-header {
+        display: flex;
+        justify-content: space-between;
+        padding-top: 1.5rem;
+    }
+    main-nav {
         font-size: 2rem;
     }
 }
