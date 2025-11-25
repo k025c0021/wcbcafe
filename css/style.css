@@ -116,10 +116,26 @@ img {
 .about p {
     margin-bottom: 3rem;
 }
-.copylight {
+.copyright {
     background-color: #432;
     text-align: center;
     padding: 2rem 0;
     margin-top: 6rem;
     color: #fff;
+}
+/* デスクトップ版
+-------------------------------------------------- */
+@media (min-width: 800px) {
+    /* 見出し */
+    .page-title {
+        font-size: 5rem;
+    }
+    .heading-large {
+        font-size: 4rem;
+    }
+
+    /* ヘッダー */
+    .main-nav {
+        font-size: 2rem;
+    }
 }
