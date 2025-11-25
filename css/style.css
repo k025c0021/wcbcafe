@@ -8,7 +8,7 @@ html {
 body {
     font-family: "Hiragino Kaku Gothic ProN", "Higaragino Sans", "BIZ UDPGothiv", sans-serif;
     line-height: 1.7;
-    color: "432";
+    color: #432;
 
 }
 a {
@@ -60,4 +60,12 @@ img {
 }
 .cover-home{
     background-image: url(../images/cover-home-s.webp);
+}
+.about {
+    max-width: 736px;
+    padding: 0 1.5rem;
+    margin: 3rem auto 0;
+}
+.about p {
+    margin-bottom: 3rem;
 }
