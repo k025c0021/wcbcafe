@@ -55,6 +55,12 @@ img {
     
 /* ヘッダー
 -------------------------------------------------- */
+.page-footer {
+    background-image: url(../images/footer-s.webp);
+    background-size: cover;
+    background-position: center;
+    padding-top: 12rem;
+}
 .info{
     width: 100%;
     max-width: 544px;
@@ -109,4 +115,11 @@ img {
 }
 .about p {
     margin-bottom: 3rem;
+}
+.copylight {
+    background-color: #432;
+    text-align: center;
+    padding: 2rem 0;
+    margin-top: 6rem;
+    color: #fff;
 }
