@@ -231,7 +231,7 @@ img {
     }
 
     /*ヘッダーカバー画像*/
-    .sub-cover{
+    .sub-cover {
         height: 400px;
         margin-bottom: 6rem;
     }
@@ -247,6 +247,25 @@ img {
     /*NEWS*/
     .cover-news {
         background-image: url(../images/cover-news-l.webp);
+    }
+    .news-contents {
+        display: flex;
+        justify-content: space-between;
+    }
+    .post {
+        width: 60%;
+        order: 2;
+    }
+    .sidebar {
+        width: 22%;
+        order: 3;
+    }
+    .ad{
+        order: 1;
+    }
+    .sidebar .heading-medium {
+        line-height: 1;
+        margin-bottom: 1rem;
     }
 
     /*フッター*/
