@@ -6,7 +6,7 @@ html {
     font-size: 100%;
 }
 body{
-    font-family: "Hiragino Kaku Gothic ProN", "Hiragino Sans", "BIZ UDPGothic", sans-serif;
+    font-family: "Hiragino kaku Gothic ProN", "Hiragino Sans", "BIZ UDPGothic", sans-serif;
     line-height: 1.7;
     color: #432;
 
@@ -23,7 +23,7 @@ img {
 }
 /* 見出し */
 .font-english {
-    font-family: 'philosopher', sans-serif;
+    font-family: 'Philosopher', sans-serif;
     font-weight: normal;
 }
 .page-title, 
